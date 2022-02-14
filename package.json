@@ -1,0 +1,22 @@
+{
+  "name": "servicos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clientes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MEscola/nodejs-api-rest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MEscola/nodejs-api-rest/issues"
+  },
+  "homepage": "https://github.com/MEscola/nodejs-api-rest#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
